@@ -4,7 +4,7 @@
 # What is Integrated-Agricultural-Productivity-Analysis-and-Support System?
 
 Is an agricultural information management system used by agricultural office to easily manage farmers and land information
-it consists of different AI aystems for plant diseas identification and fertlizer management .
+it consists of different AI systems for plant disease identification and fertlizer management .
 
 # About
 
